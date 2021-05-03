@@ -1,3 +1,11 @@
+/*
+ *  DIY Battery Capacity tester v1.0 
+ *  Auther: ER BROS LAB
+ *  YouTube: https://www.youtube.com/channel/UCY6KA8oFk1s36fyPiFEmedQ
+ *  Instagram: https://instagram.com/erbroslab?igshid=yuf7g4tevsro
+ *  Email: erbrother1@gmail.com
+ */
+
 #include <LiquidCrystal.h>
 
 const int rs = 5, en = 6, d4 = 7, d5 = 8, d6 = 9, d7 = 10;
